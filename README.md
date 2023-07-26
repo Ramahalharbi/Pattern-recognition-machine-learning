@@ -1,6 +1,10 @@
 # Pattern-recognition-machine-learning
 
 
+![Unknown-1](https://github.com/Ramahalharbi/Pattern-recognition-machine-learning/assets/139393175/f414d31a-1a9c-44d3-b9b8-807b766b8ce2)
+
+
+
 Project Title
 
 MAGIC Gamma Telescope
@@ -14,6 +18,9 @@ The goal of the MAGIC telescope is to detect and study gamma rays primarily orig
 The analysis involves performing a principal component analysis to extract Hillas parameters, characterizing the elongated clusters in the camera plane. Asymmetry along the major axis and other discriminating characteristics further aid in signal identification. The telescope's objective is to understand the sources of cosmic radiation and investigate phenomena like accretion and supernova remnants in the distant universe.
 
 The project utilizes data generated through simulations, enabling researchers to study the telescope's performance, optimize data analysis algorithms, and develop pattern regression models to classify high-energy gamma rays accurately.
+
+![Unknown-2](https://github.com/Ramahalharbi/Pattern-recognition-machine-learning/assets/139393175/1cff55a6-c163-4f04-8755-749f7c1312fd)
+
 
 
 Model and Analysis
