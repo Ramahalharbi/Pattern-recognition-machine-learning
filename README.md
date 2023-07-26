@@ -28,12 +28,23 @@ Model and Analysis
 In this project, we explored various machine learning models to perform pattern regression and discriminate between high-energy gamma particles detected by the MAGIC Gamma Telescope. The following models were used in our analysis:
 
 1- k-Nearest Neighbors (kNN): kNN is a simple and effective classification algorithm that assigns the class of a data point based on the class labels of its k-nearest neighbors in the feature space.
+
 2- Naive Bayes: Naive Bayes is a probabilistic classification algorithm based on Bayes' theorem. It assumes that the features are conditionally independent given the class label, which simplifies the computation and makes it efficient for high-dimensional datasets.
+
 3- Logistic Regression: Logistic Regression is a linear classification algorithm that models the probability of a binary outcome. It is widely used for binary classification problems and can be extended to multi-class problems as well.
+
 4- Support Vector Machine (SVM): SVM is a powerful algorithm for binary classification that finds the optimal hyperplane that best separates the data points belonging to different classes. It can be extended to handle multi-class problems through one-vs-one or one-vs-all approaches.
+
 5- Random Forest: Random Forest is an ensemble learning method that combines multiple decision trees to improve performance and reduce overfitting. It is effective for both classification and regression tasks.
+
 6- Neural Network (Neural Net): Neural Networks are a class of deep learning models inspired by the structure of the human brain. They are capable of learning complex patterns from data and are widely used for various machine learning tasks.
+
 For each model, we performed data preprocessing  to prepare the input data. To evaluate the models' predictive capabilities and compare their performance, we utilized the Receiver Operating Characteristic (ROC) curve.
 
 The ROC curve is a graphical representation of the trade-off between the true positive rate (TPR or sensitivity) and the false positive rate (FPR) as the classification threshold varies. The Area Under the Curve (AUC) is used as a single metric to measure the overall performance of each model. A higher AUC value indicates better discrimination ability.
+
+Table of contents:
+1- ipynb file 
+2- project report as research paper
+
 
