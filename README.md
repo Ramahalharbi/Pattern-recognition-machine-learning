@@ -5,11 +5,11 @@
 
 
 
-Project Title
+# Project Title
 
 MAGIC Gamma Telescope
 
-Overview
+# Overview
 
 The MAGIC Gamma Telescope project was developed as part of a pattern regression project at University of Jeddah. The project focuses on simulating and analyzing high-energy gamma particles detected by a ground-based atmospheric Cherenkov gamma telescope using imaging techniques. Cherenkov gamma telescopes observe high-energy gamma rays by leveraging the radiation emitted by charged particles produced within electromagnetic showers initiated by the gammas in the atmosphere.
 
@@ -23,7 +23,7 @@ The project utilizes data generated through simulations, enabling researchers to
 
 
 
-Model and Analysis
+# Model and Analysis
 
 In this project, we explored various machine learning models to perform pattern regression and discriminate between high-energy gamma particles detected by the MAGIC Gamma Telescope. The following models were used in our analysis:
 
@@ -43,7 +43,7 @@ For each model, we performed data preprocessing  to prepare the input data. To e
 
 The ROC curve is a graphical representation of the trade-off between the true positive rate (TPR or sensitivity) and the false positive rate (FPR) as the classification threshold varies. The Area Under the Curve (AUC) is used as a single metric to measure the overall performance of each model. A higher AUC value indicates better discrimination ability.
 
-Table of contents:
+# Table of contents:
 1- ipynb file 
 
 2- project report as research paper
