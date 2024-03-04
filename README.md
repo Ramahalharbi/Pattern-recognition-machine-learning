@@ -46,6 +46,6 @@ The ROC curve is a graphical representation of the trade-off between the true po
 # Table of contents:
 1- ipynb file 
 
-2- project report as research paper
+2- project report 
 
 
